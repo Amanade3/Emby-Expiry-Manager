@@ -18,7 +18,7 @@ Schedule library items for automatic deletion in Emby. Browse your library, pick
 ## Requirements
 
 - Emby Server 4.8.11 and above
-- 
+  
 ## Installation
 
 1. Download `EmbyExpiry.dll` from [Releases](../../releases).
